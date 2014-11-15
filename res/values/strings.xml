@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Android_001</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="wifimanager">wifi开关</string>
+    <string name="wifistute">wifi状态</string>
+    <string name="nomarl">正常</string>
+    <string name="bianping">扁平化</string>
+
+</resources>
